@@ -11,6 +11,3 @@ To configure Artifactory to use the Repository Path method, carry out the follow
 ***NOTE***: You must use Embedded Tomcat
 
 You can only use Artifactory as a Docker registry without a reverse proxy by using the internal embedded Tomcat.
-
-=== WE ARE HERE ===
-
